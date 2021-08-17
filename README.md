@@ -16,7 +16,7 @@
    <img align="center" alt="luis-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="luis-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="luis-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/743561967754543167/876969261988470784/logo-search-grid-LL.png">
+   <img align="right" alt="luisfelipert" src="https://cdn.discordapp.com/attachments/743561967754543167/876969261988470784/logo-search-grid-LL.png">
 </div>
  
  ##
