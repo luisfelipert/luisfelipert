@@ -26,7 +26,7 @@
      <a href="https://www.linkedin.com/in/luis-felipe-fran%C3%A7a-coelho-93259320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
-  ![Snake animation](https://github.com/rafaballerini/luisfelipert/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luisfelipert/luisfelipert/blob/output/github-contribution-grid-snake.svg)
 
  
  
