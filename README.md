@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luis Felipe</h1>
- 
+<img src="https://raw.githubusercontent.com/pedrogiru/pedrogiru/main/banner-3.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 
 <div>
@@ -32,4 +32,4 @@
   ![Snake animation](https://github.com/luisfelipert/luisfelipert/blob/output/github-contribution-grid-snake.svg)
 
  
- 
+
