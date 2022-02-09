@@ -39,5 +39,5 @@
 <br>
 <div>
      <a href="https://instagram.com/luis_felipefr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4B275F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/luis-felipe-fran%C3%A7a-coelho-93259320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4B275F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/luis-felipe-93259320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4B275F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
