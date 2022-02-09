@@ -1,6 +1,29 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luis Felipe</h1>
+<img src="https://komarev.com/ghpvc/?username=luisfelipert&color=yellow">
+<br>
+<img src="./Logo.png" width="50px" >
+
+### 🙃 Hello, my name is Luis Felipe. I'm a <strong>front-end developer</strong>. I'm currently studying backend to become a <strong>fullstack</strong>
+
+<br>
+
+<img src="./computer-illustration.png" align="right" width="300px" min-width="300px" max-width="300px">
 
 
+## 🛠 &nbsp;Tech Stack :
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+
+### 💼 Tools: <strong>VS Code, Figma, Trello, Vercel, Git e GitHub.</strong>
+<br><br>
 
 <div>
   <a href="https://github.com/luisfelipert">
@@ -8,29 +31,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipert&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
-<div style="display: inline_block",  ><br>
-   <img align="center" alt="luis-JS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt= "luis-TS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="luis-React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="luis-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="luis-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="luis-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-</div>
-  
 ##
-  
-  ![Snake animation](https://github.com/luisfelipert/luisfelipert/blob/output/github-contribution-grid-snake.svg)
-  
+
+![Snake animation](https://github.com/luisfelipert/luisfelipert/blob/output/github-contribution-grid-snake.svg)
+
 ##
-  
+<br>
 <div>
-     <a href="https://instagram.com/luis_felipefr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/luis-felipe-fran%C3%A7a-coelho-93259320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://instagram.com/luis_felipefr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4B275F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/luis-felipe-fran%C3%A7a-coelho-93259320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4B275F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
- 
-
- 
- 
-
