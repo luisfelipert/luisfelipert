@@ -29,13 +29,13 @@
 
 <div>
   <a href="https://github.com/luisfelipert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipert&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipert&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipefr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipefr&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 ##
 
-![Snake animation](https://github.com/luisfelipert/luisfelipert/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luisfelipefr/luisfelipefr/blob/output/github-contribution-grid-snake.svg)
 
 ##
 <br>
