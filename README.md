@@ -1,5 +1,5 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="10px">, I'm Luis Felipe</h1>
-<img src="https://komarev.com/ghpvc/?username=luisfelipert&color=yellow" width="1px">
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luis Felipe</h1>
+<img src="https://komarev.com/ghpvc/?username=luisfelipefr&color=yellow" >
 <br>
 <a href="https://luigifr.com">
 <img src="./Logo.png" width="50px" >
