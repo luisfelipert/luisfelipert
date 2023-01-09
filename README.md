@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luis Felipe</h1>
-<img src="https://komarev.com/ghpvc/?username=luisfelipefr&color=yellow" >
+<img src="https://komarev.com/ghpvc/?username=luisfelipefr&color=green" >
 <br>
 <a href="https://luigifr.com">
 <img src="./Logo.png" width="50px" >
@@ -33,11 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipefr&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
-##
 
-![Snake animation](https://github.com/luisfelipefr/luisfelipefr/blob/output/github-contribution-grid-snake.svg)
-
-##
 <br>
 <div>
      <a href="https://instagram.com/luis_felipefr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4B275F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
