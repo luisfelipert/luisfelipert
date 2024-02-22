@@ -25,17 +25,3 @@
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 ### 💼 Tools: <strong>VS Code, Figma, Trello, Vercel, Git e GitHub.</strong>
-<br><br>
-
-<div>
-  <a href="https://github.com/luisfelipefr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipefr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipefr&layout=compact&langs_count=7&theme=omni"/>
-</div>
-
-
-<br>
-<div>
-     <a href="https://instagram.com/luis_felipefr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4B275F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/luis-felipe-93259320a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4B275F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
