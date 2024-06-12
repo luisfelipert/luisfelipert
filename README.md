@@ -25,3 +25,4 @@
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 ### 💼 Tools: <strong>VS Code, Figma, Trello, Vercel, Git e GitHub.</strong>
+<a href="https://wakatime.com/@af0f8259-4aef-423a-a7f9-464fdddd9ab0"><img src="https://wakatime.com/badge/user/af0f8259-4aef-423a-a7f9-464fdddd9ab0.svg" alt="Total time coded since Aug 4 2021" /></a>
